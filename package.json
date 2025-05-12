@@ -1,6 +1,7 @@
 {
   "devDependencies": {
-    "vitepress": "^2.0.0-alpha.5"
+    "vitepress": "^2.0.0-alpha.5",
+    "vercel": "^31.6.3"
   },
   "dependencies": {
     "@tailwindcss/postcss": "^4.1.6",
