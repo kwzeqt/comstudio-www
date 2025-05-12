@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+
+# VitePress cache
+app/.vitepress/cache/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Lock files
+pnpm-lock.yaml
+yarn.lock
+package-lock.json
+
+# Env files
+.env
+.env.*
+
+# Misc
+*.tmp
+*.swp
