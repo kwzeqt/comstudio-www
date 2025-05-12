@@ -15,7 +15,6 @@ app/.vitepress/cache/
 Thumbs.db
 
 # Lock files
-pnpm-lock.yaml
 yarn.lock
 package-lock.json
 

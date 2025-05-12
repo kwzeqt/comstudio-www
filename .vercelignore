@@ -6,7 +6,6 @@ app/.vitepress/cache/
 *.swp
 .DS_Store
 Thumbs.db
-pnpm-lock.yaml
 yarn.lock
 package-lock.json
 .env
